@@ -1,0 +1,2 @@
+ (python library)
+I apologize, but the example I provided is in the wrong language. The bug fix for scuRVY in Python will be different. I recommend looking for examples of bug fixes in the Python library you are using or in the documentation. If you provide me with more information on the library you are using, I may be able to assist you with a bug fix.
